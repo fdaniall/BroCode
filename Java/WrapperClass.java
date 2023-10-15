@@ -9,7 +9,7 @@ public class WrapperClass {
 		// Primitive	||	Wrapper
 		// ---------	||  -------
 		// boolean		||	Boolean
-		// char			||  Character
+		// char			||  	Character
 		// int			||	Integer
 		// double		||	Double
 		
